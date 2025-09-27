@@ -1,0 +1,4 @@
+Archivo main.txt
+Práctica 2 de Git + GitHub
+Autor: Kevin León
+Fecha: 27/09/2025
